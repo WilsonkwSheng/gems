@@ -10,6 +10,9 @@ Authorization:
 Background Processing:
 - [Sidekiq](https://github.com/mperham/sidekiq)
 
+CSS:
+- [Tailwincss](https://github.com/rails/tailwindcss-rails)
+
 Ruby Style Guide:
 - [Rubocop](https://github.com/rubocop/rubocop)
 - [Rubocop-Shopify](https://github.com/Shopify/ruby-style-guide)
